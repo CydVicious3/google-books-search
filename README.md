@@ -1,1 +1,1 @@
-# google-books-search
+A React-based Google Books Search app. This app allows a user to search for books via the Google Books API. A user has the option to "View" a book, bringing them to the book on Google Books, or "Save" a book, saving it to the Mongo database. App is built  with React components, leverages helper/util functions, and utilizes React lifecycle methods to query and display books based on user searches. Backend technologies such as Node, Express and MongoDB allow to save books for review or purchase later.
